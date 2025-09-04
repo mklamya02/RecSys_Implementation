@@ -1,4 +1,4 @@
-# 🎬 Implementation of Recommender Models on MovieLens Dataset  
+#  Implementation of Recommender Models on MovieLens Dataset  
 
 ## 📝 Description  
 This repository contains a collection of Jupyter notebooks implementing and comparing different recommender system architectures using the **MovieLens ML-Latest-Small dataset**.  
