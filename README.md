@@ -51,4 +51,8 @@ You can download it here: [MovieLens Dataset](https://grouplens.org/datasets/mov
 ## 🚀 Getting Started  
  Clone this repository:  
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/mklamya02/RecSys_Implementation.git
+=======
+   git clone https://github.com/mklamya02/RecSys_Implementation.git
+>>>>>>> 5e49e940f8bd25a1a91dcc4dd70b5d8145e8f910
