@@ -1,8 +1,8 @@
-# 🎬 AI-Driven Recommender Systems on MovieLens Dataset  
+# 🎬 Implementation of Recommender Models on MovieLens Dataset  
 
 ## 📝 Description  
 This repository contains a collection of Jupyter notebooks implementing and comparing different recommender system architectures using the **MovieLens ML-Latest-Small dataset**.  
-The goal is to cover a wide range of approaches—from classical methods to modern AI-driven techniques including deep learning and graph neural networks—to analyze their performance and limitations.  
+The goal is to cover a wide range of approaches from classical methods to modern AI-driven techniques including deep learning and graph neural networks to analyze their performance and limitations.  
 
 ---
 
@@ -11,13 +11,14 @@ The goal is to cover a wide range of approaches—from classical methods to mode
 ### 🔹 Content-Based Filtering (CBF)  
 - Bag-of-Words (BoW)  
 - Binary Feature Metrics  
-- TF-IDF with Cosine Similarity  
+- TF-IDF 
 - **Interactive CBF**: the user can input a movie title (correct or misspelled). Using **FuzzyWuzzy**, the system automatically matches it with the closest title in the dataset and returns the **top-10 most similar movies**.  
 
 ---
 
 ### 🔹 Collaborative Filtering (CF)  
-- **SVD** (Singular Value Decomposition)  
+- **SVD** (Singular Value Decomposition)
+- **FunkSVD**
 - **SVD++**  
 - **NMF** (Non-Negative Matrix Factorization)  
 - **ALS** (Alternating Least Squares)  
