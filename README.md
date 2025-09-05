@@ -22,7 +22,7 @@ The goal is to cover a wide range of approaches from classical methods to modern
 - **SVD++**  
 - **NMF** (Non-Negative Matrix Factorization)  
 - **ALS** (Alternating Least Squares)  
-- **AutoRec** (Autoencoder for Recommendations)  
+ 
 
 ---
 
@@ -34,7 +34,8 @@ The goal is to cover a wide range of approaches from classical methods to modern
 ---
 
 ### 🔹 Deep Learning-Based Recommendation  
-- **Content-Based CNN** applied to movie features.  
+- **Content-Based CNN** applied to movie features.
+- **AutoRec** (Autoencoder for Recommendations) 
 - **Neural Collaborative Filtering (NCF):**  
   - User and item embeddings  
   - Multi-Layer Perceptron (MLP)  
